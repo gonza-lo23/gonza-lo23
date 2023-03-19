@@ -13,7 +13,7 @@ Frontend developer with React
 <br/>
 
 ## Contact:
-<a href="https://linkedin.gonzalopozzo.com">
-<img align="left" alt="Gonzalo Pozzo LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
+<a href="https://linkedin.com/in/gonzalo-palacio223">
+<img align="left" width="35px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
 </a>
 
